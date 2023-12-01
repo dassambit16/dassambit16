@@ -11,7 +11,7 @@
 
 <!-- Badges Section (Add relevant badges like LinkedIn, GitHub, etc.) -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/sambit-kumar-das-61349021a/">
+  <a href="https://www.linkedin.com/in/sambit-kumar-das/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sambit%20Kumar%20Das-blue?style=flat&logo=linkedin">
   </a>
   <a href="https://leetcode.com/dassambit16/">
